@@ -28,7 +28,7 @@ The project contains 3 main tables:
 - tickets
 
 📌 File:  
-👉 [View SLA Analysis SQL](schema.sql)
+👉 [View Schema](schema.sql)
 
 ---
 
@@ -41,14 +41,14 @@ Dataset includes **intentional issues**:
 - Invalid foreign keys  
 
 📌 File:  
-👉 [View SLA Analysis SQL](data.sql)
+👉 [View Data](data.sql)
 
 ---
 
 ## 🔍 Data Validation Queries
 
 📌 File:  
-👉 [View SLA Analysis SQL](validation_queries.sql)
+👉 [View Data Validation  SQL Queries](validation_queries.sql)
 
 ### Includes:
 
@@ -67,14 +67,14 @@ Dataset includes **intentional issues**:
 ![Null Values](screenshots/null_values.png)
 
 #### ❌ Invalid Foreign Keys
-![Invalid FK](screenshots/invalid_fk.png)
+![Invalid FK](screenshots/Invalid_fk.png)
 
 ---
 
 ## 🛠️ Incident Scenarios
 
 📌 File:  
-👉 [View SLA Analysis SQL](incident_scenarios.sql)
+👉 [View Incident Scenerios](incident_scenarios.sql)
 
 ### Scenarios Covered:
 
@@ -133,4 +133,4 @@ Dataset includes **intentional issues**:
 
 ## 👨‍💻 Author
 
-**Kesarapu Teja**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Teja%20Kesarapu-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tejakesarapu/)
