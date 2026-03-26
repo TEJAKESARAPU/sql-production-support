@@ -27,8 +27,8 @@ The project contains 3 main tables:
 - transactions
 - tickets
 
-📌 Schema file:  
-👉 :contentReference[oaicite:0]{index=0}  
+📌 File:  
+👉 [View SLA Analysis SQL](schema.sql)
 
 ---
 
@@ -40,15 +40,15 @@ Dataset includes **intentional issues**:
 - NULL values  
 - Invalid foreign keys  
 
-📌 Data file:  
-👉 :contentReference[oaicite:1]{index=1}  
+📌 File:  
+👉 [View SLA Analysis SQL](data.sql)
 
 ---
 
 ## 🔍 Data Validation Queries
 
 📌 File:  
-👉 :contentReference[oaicite:2]{index=2}  
+👉 [View SLA Analysis SQL](validation_queries.sql)
 
 ### Includes:
 
@@ -74,7 +74,7 @@ Dataset includes **intentional issues**:
 ## 🛠️ Incident Scenarios
 
 📌 File:  
-👉 :contentReference[oaicite:3]{index=3}  
+👉 [View SLA Analysis SQL](incident_scenarios.sql)
 
 ### Scenarios Covered:
 
@@ -87,7 +87,7 @@ Dataset includes **intentional issues**:
 ## 📊 SLA & Ticket Analysis
 
 📌 File:  
-👉 :contentReference[oaicite:4]{index=4}  
+👉 [View SLA Analysis SQL](sla_analysis.sql)
 
 ### Includes:
 
